@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1032212834553",
+    "project_id": "messengerandroid-17f11",
+    "storage_bucket": "messengerandroid-17f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032212834553:android:a41434091dcdf1bff15a28",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032212834553-ck64qvue8migk6b8k8v8tpjuibh1ftp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhkPIwTozhVfa3r-GH2tl3V8I8H8EGEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032212834553-ck64qvue8migk6b8k8v8tpjuibh1ftp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032212834553:android:f635124ae48ed224f15a28",
+        "android_client_info": {
+          "package_name": "edu.polly.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032212834553-ck64qvue8migk6b8k8v8tpjuibh1ftp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhkPIwTozhVfa3r-GH2tl3V8I8H8EGEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032212834553-ck64qvue8migk6b8k8v8tpjuibh1ftp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
